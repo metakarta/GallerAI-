@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/)
 
-_INSTRUCTIONS: This GitHub repository serves as a template to put our Project The GallerAI, we  use to create a well documented README for your project for the [2024 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/)._
+_INSTRUCTIONS: This GitHub repository serves as a template to put our Project The GallerAI, we  use to create a well documented README for our project for the [2024 Call for Code Global Challenge](https://developer.ibm.com/callforcode/global-challenge/)._
 
 Your required deliverables and project descriptions should be officially submitted to your My Team > Submissions section of the [Call for Code Global Challenge web site](https://compete.callforcode.skillsnetwork.site/competitions/2024-call-for-code-global-challenge), but you can also optionally include them here for completeness, as it is good practice to clearly document your project in your README file. Replace the examples seen here with your own deliverable links.
 
@@ -33,10 +33,9 @@ _New to Git and GitHub? This free online course will get you up to speed quickly
 
 _INSTRUCTIONS: Below are the suggested sections to include in your README file to make sure your project is well documented. You can remove this instruction text._
 
-## Project summary
+## Gallerai is a gallery with AI, based on the WattsonX Government platform for the purpose of recording, planning and building a crisis center in dealing with Megatrust, Climate Change, Natural Disasters. Flood and Fire Disasters. In the Flashlight Crisis Gallery, all treatments are managed in such a way that you can find the best way to organize and manage disaster mitigation, both upstream and downstream processes, such as handling before (Pre), after (Post) and the recovery process (Pro). In this case, the handling of victims who of course need better care from experts (Pros) in the trauma of incidents that have occurred, so there is a need for a Trauma Center in the Crisis Center Gallery building which adopts BM technology with various platforms that will support the perfection of the GallerAI Project.
 
-### The issue we are hoping to solve
-
+### adalah masalah penanggulangan bencana dengan berbagai akibat yang kami titik beratkan adalah pembangunan krisis center sebagai pusat pengendalian bencana dan merawat para korban utama anak-anak untuk diberi pembekalan sehingga masa melewati trauma tidak mengakibatkan dampak fisik lainnya. Masalah yang kami harapkan dapat diselesaikan dengan Solusi Megatrust, karena dengan teknologi IBM semua dspat dilakukan dengan kesempurnaannya sesuai Terlebih lagi saat ini diperlukan untuk mengadopsi secara perspektif manajemen perubahan Di bidang teknologi informasi (TI), ini adalah praktik yang dirancang untuk meminimalkan gangguan pada pengoperasian TI sambil membuat perubahan pada sistem dan layanan penting. Proses manajemen perubahan yang baik juga penting untuk keamanan informasi karena membantu organisasi melindungi aset mereka yang paling sensitif selama perubahan pada sistem, proses, dan teknologi,
 REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
 
 ### How our technology solution can help
